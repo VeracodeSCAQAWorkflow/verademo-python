@@ -103,7 +103,6 @@ See the [DEMO_NOTES](DEMO_NOTES.md) file for information on using this applicati
 
 Also see the `docs` folder for in-depth explanations of the various exploits exposed in this application.
 
-
 ## Technologies Used
 
 - Django (Version 4.2.13)
