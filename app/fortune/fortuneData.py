@@ -1,6 +1,5 @@
 import random
 
-
 def FortuneData():
         fortunes = [
            "A beautiful, smart, and loving person will be coming into your life.",
